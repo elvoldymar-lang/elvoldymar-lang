@@ -9,7 +9,7 @@ Software Engineer with 5+ years of experience building scalable web applications
 * ✉️  You can contact me at [elvoldymar@gmail.com](mailto:elvoldymar@gmail.com)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,react,nextjs,nodejs,docker,kubernetes,aws,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=spring,git,java,js,kotlin,python,ts,swift,vscode,html,react,nextjs,vue,nuxtjs,angular,jquery,tailwind,solidjs,nodejs,fastapi,express,nestjs,mongodb,mysql,postgres,azure,gcp,linux,django,docker,kubernetes,aws&perline=11" />
 </p>
 
 ### Socials
